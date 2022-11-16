@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
 <img src="img/Dimension%20North%20Logo.svg" width="150">
 </p>
 
