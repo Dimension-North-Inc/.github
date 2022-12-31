@@ -1,5 +1,5 @@
 <p align="left">
-<img src="/img/Dimension%20North%20Symbol.svg" width="100">
+<img src="/img/Dimension%20North%20Logo.svg" width="320">
 </p>
 
 # Dimension North Inc.
